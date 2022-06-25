@@ -12,3 +12,5 @@ print(pays)
 # Fonction sort() : Permet d'ordonner
 print(pays.sort())
 
+
+
