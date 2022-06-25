@@ -1,5 +1,9 @@
 # Affichage des pays se trouvant dans la liste
-# La fonction print() permet d'afficher
-
+# Fonction print() : permet d'afficher
 pays = ['RDC','Rwanda','Burundi','Tanzanie','Ouganda','Kenya']
+print(pays)
+
+#Pour ajouter un pays sur la liste pays
+#Fonction append() : permet d'ajouter
+pays.append("RSA")
 print(pays)
