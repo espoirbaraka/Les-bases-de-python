@@ -1,3 +1,5 @@
+#RANDOM CHOISI ALEATOIREMENT UN NOMBRE PARMIS PLUSIEURS
+#Jeu MUNDELE
 from random import *
 print("Essayer votre chance")
 print()

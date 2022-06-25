@@ -1,4 +1,4 @@
-#Ce script permet de jouer au Jeux Mundele 4 fois
+#Ce script permet de jouer au Jeux MUNDELE 4 fois
 from random import randint
 print("Essayer votre chance")
 print()
