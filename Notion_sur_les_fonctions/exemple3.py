@@ -1,3 +1,4 @@
+#FACTURE
 stock = {'Sucre':500, 'Pain':950, 'Huile':1500, 'Savon':200, 'Riz':720}
 def lestock(x):
     for i in stock:
