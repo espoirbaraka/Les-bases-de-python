@@ -1,4 +1,4 @@
-#PREVISION DES MATCH DE LA COUP DU MONDE
+#PREVISION DES MATCH DE LA COUPE DU MONDE
 from random import *
 groupe_A = ['Qatar','Equateur','Senegal','Pays-bas']
 date_groupe_A = ['le 21/11/2022', 'le 22/11/2022', 'le 22/11/2022','le 23/11/2022', 'le 23/11/2022', 'le 24/11/2022']
