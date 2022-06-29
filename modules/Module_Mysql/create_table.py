@@ -9,3 +9,5 @@ mydb = mysql.connector.connect(
 mycursor = mydb.cursor()
 
 mycursor.execute("CREATE TABLE section (id varchar(255) default uuid(), designation VARCHAR(50))")
+
+mycursor.execute("")
