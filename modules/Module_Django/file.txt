@@ -1,0 +1,7 @@
+pip install django   // installe le module django
+
+django-admin startproject nomprojet   // cree un projet avec un sous dossier ayant le meme nom que le nom du projet
+
+cd nomprojet   // deplacement dans le projet
+
+django-admin startapp nommodule   // cree une application
